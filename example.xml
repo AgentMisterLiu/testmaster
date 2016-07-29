@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<test>
+<description>Test of Testmaster</description>
+<number>3</number>
+<question id="1">
+	<type>choice</type>
+	<description>First question </description>
+	<option id="1">
+		<content>yes</content>
+		<score>10</score>
+	</option>
+	<option id="2">
+		<content>no</content>
+		<score>0</score>
+	</option>
+</question>
+<question id="2">
+	<type>mchoice</type>
+	<description>Second question </description>
+	<option id="1">
+		<content>yes</content>
+		<score>10</score>
+	</option>
+	<option id="2">
+		<content>no</content>
+		<score>0</score>
+	</option>
+</question>
+<question id="3">
+	<type>text</type>
+	<description>Third question</description>
+</question>
+</test>
