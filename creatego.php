@@ -3,6 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 <body>
+a
 <?php
 require "conn.php";
 $time=time()*10000+rand(1000,9999);
